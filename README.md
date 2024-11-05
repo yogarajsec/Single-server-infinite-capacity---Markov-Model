@@ -54,4 +54,4 @@ print("---------------------------------------------------------------")
 ![Screenshot 2024-10-30 112352](https://github.com/user-attachments/assets/29e2954e-8561-444d-bc69-b4b9f355b1b4)
 
 ## Result :
-
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
